@@ -18,7 +18,7 @@ Lightning Web Components are the newer and improved version of lightning compone
 
 1. Download Salesforce CLI from [here](https://developer.salesforce.com/tools/sfdxcli)
 
-2. Run `sfdx plugins:install salesforcedx`
+2. Run `sfdx plugins:install salesforcedx@pre-release`
 
 #### Cloning the code base and installing dependencies
 
