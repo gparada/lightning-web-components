@@ -1,4 +1,4 @@
-# Lightning Web Components Preview
+# Lightning Web Components
 
 ## Introduction
 
